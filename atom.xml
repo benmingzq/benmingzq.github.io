@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>气huhu的小仙女</title>
+  <title>个人博客</title>
   
   <subtitle>呼</subtitle>
-  <link href="%5C/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://benmingzq.github.io/"/>
+  <link href="ttps://benmingzq.github.io/"/>
   <updated>2018-05-26T09:49:21.238Z</updated>
-  <id>https://benmingzq.github.io/</id>
+  <id>ttps://benmingzq.github.io/</id>
   
   <author>
     <name>qukailai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://benmingzq.github.io/2018/05/26/wf/"/>
-    <id>https://benmingzq.github.io/2018/05/26/wf/</id>
+    <link href="ttps://benmingzq.github.io/2018/05/26/wf/"/>
+    <id>ttps://benmingzq.github.io/2018/05/26/wf/</id>
     <published>2018-05-26T09:49:21.238Z</published>
     <updated>2018-05-26T09:49:21.238Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://benmingzq.github.io/2018/05/26/hello-world/"/>
-    <id>https://benmingzq.github.io/2018/05/26/hello-world/</id>
+    <link href="ttps://benmingzq.github.io/2018/05/26/hello-world/"/>
+    <id>ttps://benmingzq.github.io/2018/05/26/hello-world/</id>
     <published>2018-05-26T08:26:00.169Z</published>
     <updated>2018-05-26T08:26:00.170Z</updated>
     
